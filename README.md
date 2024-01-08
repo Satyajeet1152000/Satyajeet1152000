@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm &nbsp;<span align="center" color="orange">Satyajeet Singh</span></h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
 
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
     <a href="https://linkedin.com/in/satyajeet1152000" target="_blank"><img align="center"
