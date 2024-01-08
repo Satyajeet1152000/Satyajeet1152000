@@ -24,7 +24,7 @@
 <p align="center">
     <img style="border-radius: 20%; background-color: aqua;" src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="javascript" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    <img src="https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/6e87d/next-js-logo.png" alt="nextjs" width="40" height="40" style="background-color-red"/>
+    <img src="https://mikevpeeren.nl/_next/static/media/next_logo.79d7b4bd.png" alt="nextjs" width="40" height="40" style="background-color-red"/>
     <br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
