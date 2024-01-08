@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, ```@@I'mSatyajeet Singh@@``` </h1>
+<h1 align="center" color="orange">Hi 👋, @@I'mSatyajeet Singh</h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
 
 
