@@ -1,4 +1,10 @@
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 <h1 align="center">Hi 👋, I'm &nbsp;<span align="center" style="color: orange;">Satyajeet Singh</span></h1>
 
