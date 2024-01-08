@@ -24,7 +24,7 @@
 <p align="center">
     <img style="border-radius: 20%; background-color: aqua;" src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="javascript" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    <img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail-1.webp" alt="nextjs" width="40" height="40" />
+    <img src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="nextjs" width="40" height="40" style="background-color-red"/>
     <br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
