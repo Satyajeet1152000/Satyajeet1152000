@@ -6,8 +6,7 @@
 @@ text in purple (and bold)@@
 ```
 
-<h1 align="center">Hi 👋, I'm &nbsp;<span align="center" style="color: orange;">Satyajeet Singh</span></h1>
-
+<h1 align="center">Hi 👋, ```@@I'mSatyajeet Singh@@``` </h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
 
 
