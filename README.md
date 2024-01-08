@@ -1,11 +1,42 @@
-<h1 align="center">Hi 👋, I'm Satyajeet Singh</h1>
-<h2 align="center">A passionate Full Stack Developer from India</h2>
-<p align=""center>
-    - 🌱 I’m currently learning **NextJS and ReactJS**
+<style>
+    .info{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        justify-items: center;
+    }
+    /* .info .greet{
+        text-align: center;
+    } */
     
-    - 📫 How to reach me **satyajeet1152000@gmail.com**
-
-</p>
+    .username{
+        border-right: 2px solid red;
+        color: orange;
+        overflow: hidden;
+        white-space: nowrap;
+        letter-spacing: .15em; 
+        animation: 
+            typing 1s steps(15, end),
+            blink-caret .75s step-end infinite; 
+    }
+    @keyframes typing {
+        from { width: 0 }
+        to { width: 20%}
+    }
+    @keyframes blink-caret {
+        from, to { 
+            border-color: transparent 
+        }
+        50% {
+            border-color: orange; 
+        }
+    }
+</style>
+<div class="info">
+    <h1 class="greet">Hi 👋, I'm &nbsp;</h1>
+    <h1 class="username">Satyajeet Singh</h1>
+</div>
+<h2 align="center">A passionate Full Stack Developer from India</h2>
 
 
 <h3 align="center">Connect with me:</h3>
