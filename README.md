@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Satyajeet Singh</h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
+<p align=""center>
+    - 🌱 I’m currently learning **NextJS and ReactJS**
+    
+    - 📫 How to reach me **satyajeet1152000@gmail.com**
 
-- 🌱 I’m currently learning **NextJS and ReactJS**
+</p>
 
-- 📫 How to reach me **satyajeet1152000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
     <a href="https://linkedin.com/in/satyajeet1152000" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="satyajeet1152000" height="30" width="40" /></a> &nbsp&nbsp&nbsp
@@ -45,9 +48,5 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a> 
 </p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=satyajeet1152000&show_icons=true&locale=en"
-        alt="satyajeet1152000" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyajeet1152000&"
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyajeet1152000&"
         alt="satyajeet1152000" /></p>
