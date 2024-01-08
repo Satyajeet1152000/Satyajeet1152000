@@ -5,7 +5,7 @@
 <br/>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/satyajeet1152000" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/satyajeet1152000" target="_blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="satyajeet1152000" height="30" width="40" /></a> &nbsp&nbsp&nbsp
             <a href="https://stackoverflow.com/users/19218945" target="blank"><img align="center"
