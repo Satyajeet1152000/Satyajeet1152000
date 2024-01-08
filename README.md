@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="nextjs" width="40" height="40" style="background-color-red"/>
     <br/>
-    <img src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="nodejs" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR2dM_4ZceKe2hpJ-4k-gEOZKn1f8JPr_ARhbMPDjjUyu3oLS7zEA3wZGzjrxt0NU6BRY&usqp=CAU" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
     <br/>
