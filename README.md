@@ -4,6 +4,7 @@
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
+@@<h1 align="center">Hi 👋, ```@@I'mSatyajeet Singh@@``` </h1>@@
 ```
 
 <h1 align="center">Hi 👋, ```@@I'mSatyajeet Singh@@``` </h1>
