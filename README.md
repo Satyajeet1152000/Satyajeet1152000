@@ -18,14 +18,11 @@
 <h3 align="center">Skills and Tools:</h3>
 <p align="center">
     <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="javascript" width="40" height="40" />
-    <br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
     <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="nextjs" width="60" height="30"/>
-    <br/>
     <img src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="nodejs" width="50" height="30" />
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnWUFhZBRfz49073nM5X3KJTIQxwdyFAFZ5RiJzJ7KInR6d5sUJnJh5dxXJkOn8ZyRYXM&usqp=CAU" alt="express" width="50" height="30" />
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-    <br/>
     <img src="https://w1.pngwing.com/pngs/104/466/png-transparent-mongodb-logo-database-nosql-postgresql-mysql-green-text-line.png" alt="mongodb" width="50" height="30" />
     <img src="https://w7.pngwing.com/pngs/604/953/png-transparent-mysql-logo-mysqli-php-database-linux-coding-blue-text-logo-thumbnail.png" alt="mysql" width="50" height="30" />
     <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="postgresql" width="50" height="30" />
