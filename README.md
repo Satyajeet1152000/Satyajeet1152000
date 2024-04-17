@@ -7,40 +7,27 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-SatyajeetSingh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyajeet1152000/) [![Mail Badge](https://img.shields.io/badge/-@Satyajeet3010-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/satyajeet3010) [![Mail Badge](https://img.shields.io/badge/-satyajeet1152000-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:satyajeet1152000@gmail.com)
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-    <a href="https://linkedin.com/in/satyajeet1152000" target="_blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="satyajeet1152000" height="30" width="40" /></a> &nbsp&nbsp&nbsp
-            <a href="https://stackoverflow.com/users/19218945" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-                alt="19218945" height="30" width="40" /></a> &nbsp&nbsp&nbsp
-    <a href="https://instagram.com/satyajeet3010" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="satyajeet3010" height="30" width="40" /></a>
-</p>
-<br/>
+### What I currently Do
 
-<h3 align="center">Skills and Tools:</h3>
-<p align="center">
-    <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="javascript" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="nextjs" width="60" height="30"/>
-    <img src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="nodejs" width="50" height="30" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnWUFhZBRfz49073nM5X3KJTIQxwdyFAFZ5RiJzJ7KInR6d5sUJnJh5dxXJkOn8ZyRYXM&usqp=CAU" alt="express" width="50" height="30" />
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" />
-    <img src="https://w1.pngwing.com/pngs/104/466/png-transparent-mongodb-logo-database-nosql-postgresql-mysql-green-text-line.png" alt="mongodb" width="50" height="30" />
-    <img src="https://w7.pngwing.com/pngs/604/953/png-transparent-mysql-logo-mysqli-php-database-linux-coding-blue-text-logo-thumbnail.png" alt="mysql" width="50" height="30" />
-    </br>
-    <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="postgresql" width="50" height="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-</p>
+- 🔭 I’m currently seeking opportunity.
+- 😎 Most used line of code `git commit -m "Initial Commit"` & `git push`
+- 🤔 I’m also seeking freelance opportunity .
+- 📫 How to reach me: satyajeet1152000@gmail.com.
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyajeet1152000&"
-        alt="satyajeet1152000" /></p>
+### Skills & Tools
+[![Next Badge](https://img.shields.io/badge/-NextJs-f1f1f1?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#) 
+[![React Badge](https://img.shields.io/badge/-ReactJs-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![ThreeJs Badge](https://img.shields.io/badge/-ThreeJs-white?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Express Badge](https://img.shields.io/badge/-expressjs-f1f1f1?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#) 
+[![Mongodb Badge](https://img.shields.io/badge/-MongoDb-55ad47?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=55ad47)](#) 
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
+[![mysql Badge](https://img.shields.io/badge/-MySQL-08668e?style=for-the-badge&labelColor=black&logo=mysql&logoColor=e59108)](#)
+[![Arduino Badge](https://img.shields.io/badge/-Arduino-219ca3?style=for-the-badge&labelColor=black&logo=arduino&logoColor=219ca3)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3c79ab?style=for-the-badge&labelColor=black&logo=python&logoColor=yellow)](#)
+[![C++ Badge](https://img.shields.io/badge/-C++-084a86?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=white)](#)
+[![Postman Badge](https://img.shields.io/badge/-Postman-f26e39?style=for-the-badge&labelColor=black&logo=postman&logoColor=f26e39)](#)
+[![Vs code Badge](https://img.shields.io/badge/-Vs%20Code-26aaf1?style=for-the-badge&labelColor=black&logo=visualstudio&logoColor=26aaf1)](#)
+
